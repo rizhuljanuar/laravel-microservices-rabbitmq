@@ -10,7 +10,8 @@
         "laravel/framework": "^9.2",
         "laravel/sanctum": "^2.14.1",
         "laravel/tinker": "^2.7",
-        "rizhuljanuar/common": "dev-main"
+        "rizhuljanuar/common": "dev-main",
+        "vladimir-yuldashev/laravel-queue-rabbitmq": "^13"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.15",
